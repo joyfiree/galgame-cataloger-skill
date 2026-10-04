@@ -1,6 +1,6 @@
 # galgame-cataloger
 
-给 galgame / 视觉小说库做 **真名考据 + 元数据补全 + 目录平铺** 的 WorkBuddy skill。
+给 galgame / 视觉小说库做 **真名考据 + 元数据补全 + 目录平铺** 的 skill。
 
 ---
 
